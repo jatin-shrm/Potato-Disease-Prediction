@@ -1,0 +1,1 @@
+This is the potato disease prediction by the help og leaf pictures.
